@@ -1,6 +1,3 @@
-To whom it may concern ,
-
-
 Introduction:
 
 This project is a combination of topics learned in the odin project foundation portion of the course, specifically, the html fundamentals. We will be creating a basic recipes website to practice what we've learned, thus far.
