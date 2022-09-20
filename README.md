@@ -14,4 +14,4 @@ By the end of this project, i'll have demonstrated a general grasp of the follow
 	
 	2. HTML Boilerplate (Skeletal layout of standardized html elements)
 	
-	3. HTML Elements (title, anchor-tags, paragraph, images, bolding and emphasis)
+	3. HTML Elements  applications (title, anchor-tags, paragraphs, images)
